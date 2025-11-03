@@ -1,3 +1,22 @@
+#  Prediksi Harga Properti dengan Regresi Polinomial & Regularisasi
+
+Proyek ini adalah studi kasus *end-to-end* machine learning untuk memprediksi harga properti. Fokus utama dari proyek ini adalah untuk menganalisis **Bias-Variance Trade-off** dengan membandingkan berbagai tingkat kompleksitas (Polynomial Degree) dan metode regularisasi (Ridge vs. Lasso) untuk menemukan model yang paling optimal.
+
+---
+
+## 📂 Struktur Project
+
+Berikut adalah struktur file dan folder dalam proyek ini:
+
+📂 **UTS_ML/** 
+├── .ipynb_checkpoints/  
+├── best_model_lasso_deg2.pkl  
+├── dataset_properti_non_linear.csv  
+├── model_evaluation_results.csv  
+├── model_harga_properti_terbaik.joblib  
+├── scaler.pkl  
+├── UTS_MachineLearning.ipynb  
+└── UTS_ML_I Gede Suryananda Adikartika_220102....pdf
 ---
 
 ## 🛠️ Instalasi
