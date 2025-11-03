@@ -74,7 +74,7 @@ Seluruh analisis dan pelatihan model terdapat di dalam file Jupyter Notebook.
     ```
 
 3.  **Buka file notebook:**
-    Browser Anda akan terbuka. Klik dan buka file `Proyek_Regresi_Properti.ipynb`.
+    Browser Anda akan terbuka. Klik dan buka file `UTS_MachineLearning.ipynb`.
 
 4.  **Jalankan Semua Sel (Run All):**
     Di dalam notebook, Anda dapat memilih **"Cell" -> "Run All"** untuk menjalankan seluruh *pipeline* secara berurutan. Ini akan:
